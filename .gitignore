@@ -1,0 +1,13 @@
+# Patient data never goes in this repo
+*.csv
+*.xlsx
+*.xls
+*.npz
+*.dcm
+*.tif
+*.tiff
+benchmark_outputs/
+data/
+!farm_stones_template.csv
+__pycache__/
+.DS_Store
